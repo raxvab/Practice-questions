@@ -1,2 +1,3 @@
-# codeforces
-trying to start a new thing
+# Practice Questions 
+here I've a collection of all the cp problems I've solved accross different platforms
+
